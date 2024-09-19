@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-09-19T14:26:19.128Z"
+    },
+    {
+      "id": 2,
+      "description": "Comida",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2024-09-19T14:00:19.128Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1900,
+      "createdAt": "2024-06-19T14:00:19.128Z"
+    },
+    {
+      "description": "Tigrinho",
+      "price": 200,
+      "category": "Apostas",
+      "type": "outcome",
+      "createdAt": "2024-09-19T18:26:37.159Z",
+      "id": 4
+    },
+    {
+      "description": "Bet no lol",
+      "price": 400,
+      "category": "Apostas",
+      "type": "income",
+      "createdAt": "2024-09-19T18:42:08.014Z",
+      "id": 5
+    }
+  ]
+}
